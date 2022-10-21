@@ -27,11 +27,12 @@ class _HomePageState extends State<HomePage> {
     }));
   }
 //initState nos sirve para mantener actualizado
-  @override
-  void initState() {
+//AAAAAA
+  /*@override
+  void initState(){
     getDocId();
     super.initState();
-  }
+  }*/
 
   @override
   Widget build(BuildContext context) {
