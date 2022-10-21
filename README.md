@@ -31,6 +31,6 @@ Kelly Johana Ascanio Rodríguez
 
 7. Una vez volvamos a login ingresaremos el correo y contraseña nos enviara aqui y nos mostrara las personas registradas en nuestra base de datos
 
-![image](https://user-images.githubusercontent.com/101758695/195425834-0384f453-1b73-43e0-9d2c-b1ed9c145a73.png)
+![image](https://user-images.githubusercontent.com/101758695/197305663-dcbe95a2-4e5a-4f95-89cd-cbf64b390c87.png)
 
 
